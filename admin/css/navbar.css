@@ -1,0 +1,16 @@
+.navbar{
+  background-color:#db5a19;
+}
+.nav-link{
+  color: white;
+  font-family: serif;
+
+}
+.navbar-brand{
+  font-family:fantasy;
+  color: white;
+  padding-right: 50px;
+}
+.navbar-toggler-icon{
+  background-color: white;
+}

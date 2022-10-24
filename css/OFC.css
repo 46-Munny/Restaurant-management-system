@@ -1,0 +1,25 @@
+
+.banner{
+  height: 200px;
+  width: 288px;
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+
+.pimg{
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button1{
+  margin-left:400px;
+
+  margin-bottom: 140px;;
+
+}
+.food{
+  margin-bottom: 200px;
+}

@@ -1,0 +1,51 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+
+  font-family: serif;
+}
+.navbar{
+  background-color:#9bd8da;
+}
+.nav-link{
+  color: white;
+  font-family: serif;
+
+}
+.navbar-brand{
+  font-family:fantasy;
+  color: white;
+  padding-right: 50px;
+}
+.navbar-toggler-icon{
+  background-color: white;
+}
+h1{
+  font-size: 40px;
+  color: grey;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.label{
+  font-size: 19px;
+  border-top: 20px;
+  font-weight: normal;
+}
+
+.input{
+  background: rgb(180, 180, 180,0.5);
+  border: 0px;
+  border-radius: 0px;
+  border-bottom: 2px solid black;
+  font-size: 21px;
+  margin-bottom: 20px;
+
+}
+.tag{
+  margin-left: 100px;
+  margin-bottom: 30px;
+}

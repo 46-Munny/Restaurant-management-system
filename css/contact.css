@@ -1,0 +1,20 @@
+
+
+ .contact-title{
+   margin-top: 100px;
+   margin-bottom: 20px;
+ }
+
+.contact-info__icon{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.sub{
+  color:white;
+  margin-left: 400px;
+  padding: 10px 40px;
+  background-color:#db5a19;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
